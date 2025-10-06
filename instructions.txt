@@ -1,0 +1,12 @@
+pip install -r requirements.txt
+
+
+📦 expense-tracker/
+├── backend.py
+├── frontend.py
+├── db.py
+├── setup.bat        ✅ Double-click to run everything!
+├── requirements.txt ✅ Install all deps easily
+
+
+to run both the scripts -> .\setup.bat
